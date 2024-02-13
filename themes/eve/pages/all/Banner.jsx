@@ -11,7 +11,7 @@ const Banner = () => {
       <span className="horizontal-space">Nuestros productos son 100% originales.</span>
       <span className="horizontal-space"></span>
       <span className="horizontal-space">Internacional UPS. Pide desde cualquier sitio.</span>
-      <span className="horizontal-space">Para mayor información no dude en llamarnos al +34 675 136 652 </span>
+      <span className="horizontal-space">Para mayor información no dude en llamarnos al +34 657 796 840 </span>
     </div>
   </div>
   );
