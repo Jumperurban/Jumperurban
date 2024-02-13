@@ -11,7 +11,7 @@ function FeaturedCategories() {
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
             href="/Minerales/bruto">
-            DR.MARTENS
+            MUSHROOMS
           </a>
         </div>
         <div className="relative col-span-1 row-span-1 women-cat">
@@ -19,7 +19,7 @@ function FeaturedCategories() {
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
             href="/artesanias">
-            MUSHROOMS
+            DR.MARTENS
           </a>
         </div>
         <div className="relative col-span-1 row-span-1 kid-cat">
