@@ -15,7 +15,7 @@ function FeaturedCategories() {
           </a>
         </div>
         <div className="relative col-span-1 row-span-1 women-cat">
-          <img src="/women-banner.png" alt="Piezas Artesania" />
+          <img src="/kid-banner.png" alt="Piezas Artesania" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
             href="/artesanias">
@@ -23,7 +23,7 @@ function FeaturedCategories() {
           </a>
         </div>
         <div className="relative col-span-1 row-span-1 kid-cat">
-          <img src="/kid-banner.png" alt="Joyeria de plata" />
+          <img src="/women-banner.png" alt="Joyeria de plata" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
             href="/Joyas">
