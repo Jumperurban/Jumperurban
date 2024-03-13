@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div className="banner-container">
     <div className="scrolling-text">
-      <span>Solo piedras naturales.</span>
+      <span>Marcas originales.</span>
       <span className="horizontal-space"></span>
       <span className="horizontal-space">Envío gratis en envíos superiores a 100 euros.</span> 
       <span className="horizontal-space">Nuestros productos son 100% originales.</span>
