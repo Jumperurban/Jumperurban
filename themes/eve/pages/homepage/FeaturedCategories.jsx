@@ -10,7 +10,7 @@ function FeaturedCategories() {
           <img src="/men-banner.png" alt="Mineral en bruto" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="/Minerales/bruto">
+            href="/mushrooms">
             MUSHROOMS
           </a>
         </div>
@@ -18,7 +18,7 @@ function FeaturedCategories() {
           <img src="/kid-banner.png" alt="Piezas Artesania" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="/artesanias">
+            href="/drmartens">
             DR.MARTENS
           </a>
         </div>
@@ -26,7 +26,7 @@ function FeaturedCategories() {
           <img src="/women-banner.png" alt="Joyeria de plata" />
           <a
             className="absolute underline top-[20px] left-[20px] bg-white px-2"
-            href="/Joyas">
+            href="/stateofmind">
             STATE OF MIND
           </a>
         </div>

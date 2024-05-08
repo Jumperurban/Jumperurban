@@ -35,3 +35,17 @@
     letter-spacing: 0.1rem;
   }
 }
+.main-banner-home {
+  background-image: url("/main-banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right center;
+  height: 490px;
+  position: relative;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-banner-home {
+    background-position: center center;
+  }
+}
